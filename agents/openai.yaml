@@ -1,0 +1,4 @@
+interface:
+  display_name: "Zotero 研究设计比较"
+  short_description: "从同方向文献提取可追溯的方法证据，比较实验与质性设计并改造自有研究方案"
+  default_prompt: "使用 $zotero-study-design，依据我的研究问题、现实条件与选定论文，比较研究设计并形成有来源的方案草案。"
