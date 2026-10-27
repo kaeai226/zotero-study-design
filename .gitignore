@@ -1,0 +1,10 @@
+# Local research inputs and generated runs are not part of the skill source.
+/inputs/
+/outputs/
+/.local/
+/.env
+/.env.*
+__pycache__/
+*.pyc
+.DS_Store
+Thumbs.db
